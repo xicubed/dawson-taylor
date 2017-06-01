@@ -1,5 +1,5 @@
 Milestone Name
-eCD2S Course Conceptualization Documents
+eCD2S Course Conceptualization documents
 eCD2S Draft Course Analysis
 eCD2S Draft Course Objectives
 eCD2S Draft Course Design Pattern
@@ -17,11 +17,11 @@ eCD2S Copyright Content Reviewed
 eCD2S 35-40% Course Developed
 eCD2S Multimedia Content Reviewed
 eCD2S 55-60% Course Developed
-eCD2s Initial Communication Content Reviewed
-eCD2S IDC Approval - 75-80% Course Developed
-eCD2s IDC Approval - QM Progress Check
-eCD2S Manager Approval - 75-80% Course Developed
-eCD2S Manager Approval - QM Progress Check
-eCD2S IDC Approval - 95-100% Course Developed
-eCD2S Manager Approval - 95-100% Course Developed
-eCD2S Department Chair Approval
+eCD2S Initial Communication Content Reviewed
+eCD2S 75-80% Course Developed - IDC Approval
+eCD2S 75-80% Course Developed - Mgr Approval
+eCD2S QM Progress Check - IDC Approval
+eCD2S QM Progress Check - Mgr Approval
+eCD2S 95-100% Course Developed - IDC Approval
+eCD2S 95-100% Course Developed - Mgr Approval
+eCD2S Dept. Chair Approval
